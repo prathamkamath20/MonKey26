@@ -11,6 +11,3 @@ Full spec: [`docs/PRD.md`](docs/PRD.md). Build sequence: [`docs/MASTER_PLAN.md`]
 Next.js (React) on Vercel, Supabase (Postgres + Google OAuth + Row-Level Security), Tailwind CSS +
 shadcn/ui, Recharts. See PRD §14 for the full rationale.
 
-## Status
-
-Pre-code. `docs/HANDOFF_NEXT_SESSION.md` has the exact state.
